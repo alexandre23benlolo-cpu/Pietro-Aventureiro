@@ -1,0 +1,8 @@
+{
+  "name": "Aventura Matemática do Herói",
+  "description": "Aplicativo interativo e gamificado de matemática para crianças com as quatro operações, níveis graduais, pontuação e recursos visuais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

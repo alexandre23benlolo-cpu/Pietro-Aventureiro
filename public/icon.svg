@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4f46e5"/>
+      <stop offset="50%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#db2777"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="128" fill="url(#bg)"/>
+  <circle cx="256" cy="256" r="180" fill="#ffffff" fill-opacity="0.1"/>
+  <!-- Rocket emoji-like SVG icon -->
+  <g transform="translate(136, 120)">
+    <path d="M120 0 C180 30 230 110 230 180 C230 210 210 230 180 230 C110 230 30 180 0 120 C40 80 80 40 120 0 Z" fill="#ffffff"/>
+    <circle cx="140" cy="90" r="30" fill="#38bdf8"/>
+    <circle cx="140" cy="90" r="22" fill="#0284c7"/>
+    <path d="M30 180 L0 240 L60 210 Z" fill="#f59e0b"/>
+    <path d="M180 30 L240 0 L210 60 Z" fill="#f59e0b"/>
+    <path d="M10 230 L-20 260 L20 250 Z" fill="#ef4444"/>
+  </g>
+  <!-- Math symbols around -->
+  <text x="80" y="140" font-size="70" font-weight="bold" fill="#facc15" font-family="sans-serif">➕</text>
+  <text x="370" y="150" font-size="70" font-weight="bold" fill="#38bdf8" font-family="sans-serif">✖️</text>
+  <text x="90" y="420" font-size="70" font-weight="bold" fill="#4ade80" font-family="sans-serif">➗</text>
+  <text x="360" y="410" font-size="70" font-weight="bold" fill="#fb7185" font-family="sans-serif">➖</text>
+</svg>
